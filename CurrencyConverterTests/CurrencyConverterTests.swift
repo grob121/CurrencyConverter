@@ -1,10 +1,3 @@
-//
-//  CurrencyConverterTests.swift
-//  CurrencyConverterTests
-//
-//  Created by A.Pagdanganan on 10/7/22.
-//
-
 import XCTest
 @testable import CurrencyConverter
 

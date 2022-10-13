@@ -1,0 +1,15 @@
+"navigation_bar_title" = "Currency converter";
+"error_alert_title" = "Error";
+"ok_button_title" = "OK";
+"converted_alert_title" = "Currency converted";
+"done_button_title" = "Done";
+"convert_success_message" = "You have converted %@ to %@.";
+"commission_fee_message" = " Commission Fee - %@";
+"empty_field_message" = "Please enter any amount.";
+"same_currency_message" = "Converting same value.";
+"not_enough_balance_message" = "Amount entered is greater than balance.";
+"balances_header_title" = "MY BALANCES";
+"exchange_header_title" = "CURRENCY EXCHANGE";
+"sell_title" = "Sell";
+"receive_title" = "Receive";
+"submit_button_title" = "SUBMIT";
